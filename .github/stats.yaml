@@ -1,0 +1,15 @@
+name: Update GitHub Stats
+
+on:
+  workflow_dispatch:   # 👈 allows you to run manually from GitHub UI
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # This action regenerates the stats card with private/org repos
+      - uses: anuraghazra/github-readme-stats@main
+        with:
+          token: ${{ secrets.TOKEN }}
