@@ -60,14 +60,14 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=mohsin-fareed&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohsin-fareed&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin-fareed&layout=compact&theme=transparent&hide_border=false&count_private=true) -->
-
+<!-- 
 ![](https://github-readme-stats.vercel.app/api?username=mohsin-fareed&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&token=TOKEN)
-
+ -->
 
 
 ## 🤝 Connect
