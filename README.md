@@ -68,6 +68,6 @@
 
 ## 🤝 Connect
 - Email: [mohsinfareed786@gmail.com](mailto:mohsinfareed786@gmail.com)
-- LinkedIn: [Mohsin Fareed](linkedin.com/in/mohsin-fareed-b92a97183)
+- LinkedIn: [Mohsin Fareed](https://www.linkedin.com/in/mohsin-fareed-b92a97183/)
 
 <!-- Inspired by community README designs; customized to reflect Omar's skills and experience. -->
